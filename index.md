@@ -1,3 +1,9 @@
-_Horses_
+_animal photos_
 
-horses are sometimes used as tranportiation
+welcome to my site
+
+_these photos with include_
+
+- cats
+- birds [ bird pictures.md ]
+- horses
