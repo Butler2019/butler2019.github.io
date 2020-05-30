@@ -4,6 +4,6 @@ welcome to my site
 
 _these photos with include_
 
-- cats
+- cats  [ cat pictures.md ]
 - birds [ bird pictures.md ]
 - horses
