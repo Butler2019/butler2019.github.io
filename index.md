@@ -5,6 +5,6 @@ this site is made up of only animal pictures
 
 _these photos with include_
 
-- cats  [(cat pictures.md)]
-- birds [(bird pictures.md)]
-- horses [(horse pictures.md)]
+- cats  [ cats picture ]( cat pictures.md )
+- birds [bird picture](bird pictures.md)
+- horses [ horse picture ](horse pictures.md)
