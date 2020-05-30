@@ -7,4 +7,4 @@ _these photos with include_
 
 - cats  [(cat pictures.md)]
 - birds [(bird pictures.md)]
-- horses
+- horses [(horse pictures.md)]
